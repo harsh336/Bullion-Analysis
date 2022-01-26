@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table rules="all" border="1" id="ctl00_cph_InnerContainerRight_C004_rgYear_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Instrument Type</th><th scope="col">Year</th><th scope="col">Traded Contract(Lots)</th><th scope="col">Quantity (000's)	</th><th scope="col">Total Value (Lacs)</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>FUTCOM</td><td style="mso-number-format:0;">2021</td><td style="mso-number-format:0;">5774929</td><td style="mso-number-format:0\.00;">577492.900</td><td style="mso-number-format:0\.00;">27348650.78</td>
+	</tr><tr>
+		<td>OPTCOM</td><td style="mso-number-format:0;">2021</td><td style="mso-number-format:0;">374</td><td style="mso-number-format:0\.00;">37.400</td><td style="mso-number-format:0\.00;">1879.22</td>
+	</tr>
+	</tbody>
+
+</table></body></html>
